@@ -2,9 +2,9 @@
 - 👀 I’m interested in music.
 - 🌱 I’m currently learning Yext
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me don't
+- 📫 How to reach me: don't
 - 😄 Pronouns: seriously?
-- ⚡ Fun fact: the previous 
+- ⚡ Fun fact: the previous answer
 
 <!---
 NateRiggins/NateRiggins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
